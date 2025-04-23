@@ -1,12 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MindTalk Chat Assistant is a powerful, AI-driven chatbot designed to help you communicate, learn, and create more effectively. Powered by the Gemini API, it delivers fast, intelligent responses to your questions — whether you're brainstorming ideas, solving problems, writing content, or just having a casual conversation. Built with React and styled using Tailwind CSS, MindTalk offers a smooth, responsive interface. Whether you’re a student, developer, or curious mind, MindTalk provides real-time assistance, 24/7. It's the perfect companion for everyday learning, productivity, and exploration — completely free and accessible on any device.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
